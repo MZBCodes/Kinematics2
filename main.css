@@ -1,0 +1,11 @@
+body {
+    background-color: #2d2d2d;
+}
+
+.box > div {
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}
